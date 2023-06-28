@@ -1,2 +1,4 @@
 # Uri_challenge
-Solving some the initial uri challenge's by somehow
+Resolvendo alguns desafios do beecrowd de alguma forma
+usando c++
+
